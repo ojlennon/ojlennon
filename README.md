@@ -1,19 +1,12 @@
-<p  align="center">
-<a href="https://github.com/ojlennon/chatapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojlennon&repo=chatapp&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/mark123jesper-v1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper-v1&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=digi-life-magazine&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-</p>
 
 
 
 
-![](text.svg)
+
+<!-- ![](text.svg) -->
+<p align="center">
+  <img src="https://github.com/ojlennon/ojlennon/blob/main/text.svg"/>
+<p/>
 
 ``` javascript
 cosnt Owen = {
@@ -62,6 +55,12 @@ cosnt Owen = {
 <img  alt="Github"  src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img  alt="TensorFlow"  src="https://img.shields.io/badge/Tensor Flow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img  alt="Firebase"  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+</p>
+
+<p  align="left">
+<a href="https://github.com/ojlennon/chatapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojlennon&repo=chatapp&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
+</a>
 </p>
 
                                               
