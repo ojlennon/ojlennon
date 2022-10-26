@@ -1,4 +1,4 @@
-```
+``` javascript
 {
   "name" : "Owen Lennon",
   "age": 16,
