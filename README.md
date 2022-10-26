@@ -7,6 +7,7 @@
   "pronouns": "he/him"
 }
 ```
+https://github-readme-stats.vercel.app/api?username=ojlennon&show_icons=true&hide_border=true&theme=dark
 
 <!--
 **ojlennon/ojlennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
