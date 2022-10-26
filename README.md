@@ -1,6 +1,6 @@
 <p  align="center">
 <a href="https://github.com/ojlennon/chatapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojlennon&repo=ojlennon.chatapp&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojlennon&repo=chatapp&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 <a href="https://github.com/mark123jesper/mark123jesper-v1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper-v1&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
