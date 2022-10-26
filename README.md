@@ -57,6 +57,12 @@ cosnt Owen = {
 <img  alt="Firebase"  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 </p>
 
+
+<p  align="center">
+<a  href="https://github.com/ojlennon/github-readme-activity-graph"><img  alt="Owen's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=ojlennon&bg_color=0D1117&color=5BCDEC&line=8F00FF&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+</p>
+
+
 <p  align="left">
 <a href="https://github.com/ojlennon/chatapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojlennon&repo=chatapp&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
