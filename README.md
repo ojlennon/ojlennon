@@ -9,7 +9,7 @@
 <p/>
 
 ``` javascript
-cosnt Owen = {
+const Owen = {
   "name" : "Owen Lennon",
   "age": 16,
   "pronouns": "he/him"
