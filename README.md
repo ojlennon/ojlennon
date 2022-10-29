@@ -67,6 +67,9 @@ const Owen = {
 <a href="https://github.com/ojlennon/chatapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ojlennon&repo=chatapp&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
 </a>
+  <a href="https://github.com/CCHS4550/CompetitionRobot2022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CCHS4550&repo=CompetitionRobot2022&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true" />
+</a>
 </p>
 
 <p  align="center">
