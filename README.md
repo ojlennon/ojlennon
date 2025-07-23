@@ -11,7 +11,8 @@
 ``` javascript
 const Owen = {
   "name" : "Owen Lennon",
-  "age": 18,
+  "age": 19,
+  "school" : "University of Michigan"
   "pronouns": "he/him"
 }
 ```
